@@ -4,7 +4,7 @@ from spacy.tokens import DocBin
 from sklearn.model_selection import train_test_split
 
 
-with open("label_studio_export.json", "r", encoding="utf-8") as f:
+with open("label_studio_annotations.json", "r", encoding="utf-8") as f:
     label_studio_data = json.load(f)
 
 nlp = spacy.blank("pt")
