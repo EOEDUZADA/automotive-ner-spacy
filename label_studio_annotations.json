@@ -1,0 +1,3247 @@
+[
+  {
+    "text": "Verificação visual da suspensão e das pastilhas, tudo em excelente estado de conservação.",
+    "entities": []
+  },
+  {
+    "text": "Trocado pastilha de freio e feito higienização do ar condicionado. Total da nota fiscal: R$ 650,00.",
+    "entities": [
+      [
+        8,
+        25,
+        "PECA"
+      ],
+      [
+        34,
+        65,
+        "SERVICO"
+      ],
+      [
+        92,
+        98,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Foi realizado o serviço de cambagem dianteira custando R$ 650,00.",
+    "entities": [
+      [
+        27,
+        45,
+        "SERVICO"
+      ],
+      [
+        58,
+        64,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico recomendou trazer o carro novamente caso a luz do painel volte a acender.",
+    "entities": []
+  },
+  {
+    "text": "Foi realizado o serviço de revisão de 50.000 km custando R$ 85,00.",
+    "entities": [
+      [
+        27,
+        47,
+        "SERVICO"
+      ],
+      [
+        60,
+        65,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de pastilha de freio Bosch. Custo da peça: 350,00.",
+    "entities": [
+      [
+        16,
+        33,
+        "PECA"
+      ],
+      [
+        34,
+        39,
+        "PECA"
+      ],
+      [
+        56,
+        62,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente solicitou a troca da peça disco de freio da marca Cofap. O valor total ficou em 45,00 reais.",
+    "entities": [
+      [
+        36,
+        50,
+        "PECA"
+      ],
+      [
+        60,
+        65,
+        "PECA"
+      ],
+      [
+        90,
+        95,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Recomenda-se fazer revisão do sistema de freios urgente. Peças necessárias: amortecedor dianteiro Pirelli no valor de 85,00.",
+    "entities": [
+      [
+        19,
+        47,
+        "SERVICO"
+      ],
+      [
+        76,
+        97,
+        "PECA"
+      ],
+      [
+        98,
+        105,
+        "PECA"
+      ],
+      [
+        118,
+        123,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Foi realizado o serviço de troca de óleo custando R$ 190,00.",
+    "entities": [
+      [
+        27,
+        40,
+        "SERVICO"
+      ],
+      [
+        53,
+        59,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Ordem de serviço: revisão de 50.000 km. Valor cobrado pela mão de obra: 2.100,00.",
+    "entities": [
+      [
+        18,
+        38,
+        "SERVICO"
+      ],
+      [
+        72,
+        80,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de filtro de combustível Delphi. Custo da peça: 480,00.",
+    "entities": [
+      [
+        16,
+        37,
+        "PECA"
+      ],
+      [
+        38,
+        44,
+        "PECA"
+      ],
+      [
+        61,
+        67,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico recomendou trazer o carro novamente caso a luz do painel volte a acender.",
+    "entities": []
+  },
+  {
+    "text": "O mecânico trocou o filtro de combustível Monroe e cobrou 650,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        41,
+        "PECA"
+      ],
+      [
+        42,
+        48,
+        "PECA"
+      ],
+      [
+        58,
+        64,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Realizamos alinhamento e balanceamento na oficina mecânica hoje. O custo final das peças mecânicas foi de 350,00.",
+    "entities": [
+      [
+        11,
+        38,
+        "SERVICO"
+      ],
+      [
+        106,
+        112,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Foi realizado o serviço de retífica de discos custando R$ 480,00.",
+    "entities": [
+      [
+        27,
+        45,
+        "SERVICO"
+      ],
+      [
+        58,
+        64,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de pastilha de freio Mahle. Custo da peça: 280,00.",
+    "entities": [
+      [
+        16,
+        33,
+        "PECA"
+      ],
+      [
+        34,
+        39,
+        "PECA"
+      ],
+      [
+        56,
+        62,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Adicionado ao orçamento o item sapata de freio pelo valor de R$ 95,00 mais a mão de obra.",
+    "entities": [
+      [
+        31,
+        46,
+        "PECA"
+      ],
+      [
+        64,
+        69,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente solicitou a troca da peça radiador da marca Mahle. O valor total ficou em 85,00 reais.",
+    "entities": [
+      [
+        36,
+        44,
+        "PECA"
+      ],
+      [
+        54,
+        59,
+        "PECA"
+      ],
+      [
+        84,
+        89,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Recomenda-se fazer higienização do ar condicionado urgente. Peças necessárias: bateria 60Ah Bosch no valor de 45,00.",
+    "entities": [
+      [
+        19,
+        50,
+        "SERVICO"
+      ],
+      [
+        79,
+        91,
+        "PECA"
+      ],
+      [
+        92,
+        97,
+        "PECA"
+      ],
+      [
+        110,
+        115,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O manual do proprietário indica que a revisão deve ser feita a cada dez mil quilômetros rodados.",
+    "entities": []
+  },
+  {
+    "text": "Ordem de serviço: substituição da embreagem. Valor cobrado pela mão de obra: 1.200,00.",
+    "entities": [
+      [
+        18,
+        43,
+        "SERVICO"
+      ],
+      [
+        77,
+        85,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Trocado pastilha de freio e feito retífica de discos. Total da nota fiscal: R$ 1.200,00.",
+    "entities": [
+      [
+        8,
+        25,
+        "PECA"
+      ],
+      [
+        34,
+        52,
+        "SERVICO"
+      ],
+      [
+        79,
+        87,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Adicionado ao orçamento o item palheta do limpador pelo valor de R$ 480,00 mais a mão de obra.",
+    "entities": [
+      [
+        31,
+        50,
+        "PECA"
+      ],
+      [
+        68,
+        74,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O guincho deixou o automóvel no estacionamento da empresa hoje cedo.",
+    "entities": []
+  },
+  {
+    "text": "Trocado filtro de óleo e feito diagnóstico de injeção eletrônica. Total da nota fiscal: R$ 2.100,00.",
+    "entities": [
+      [
+        8,
+        22,
+        "PECA"
+      ],
+      [
+        31,
+        64,
+        "SERVICO"
+      ],
+      [
+        91,
+        99,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o óleo lubrificante 5W30 Monroe e cobrou 350,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        42,
+        "PECA"
+      ],
+      [
+        43,
+        49,
+        "PECA"
+      ],
+      [
+        59,
+        65,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de disco de freio Delphi. Custo da peça: 1.200,00.",
+    "entities": [
+      [
+        16,
+        30,
+        "PECA"
+      ],
+      [
+        31,
+        37,
+        "PECA"
+      ],
+      [
+        54,
+        62,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico chefe explicou o funcionamento do motor de três cilindros para o novo estagiário.",
+    "entities": []
+  },
+  {
+    "text": "Fizemos um check-up geral e o nível de água e óleo estão normais, nenhuma manutenção necessária.",
+    "entities": []
+  },
+  {
+    "text": "O mecânico fez a vistoria do veículo hoje de manhã, mas não encontrou nenhum defeito aparente.",
+    "entities": []
+  },
+  {
+    "text": "Orçamento aprovado para diagnóstico de injeção eletrônica (1.200,00) e substituição do pastilha de freio da Cofap por 350,00.",
+    "entities": [
+      [
+        24,
+        57,
+        "SERVICO"
+      ],
+      [
+        59,
+        67,
+        "VALOR"
+      ],
+      [
+        87,
+        104,
+        "PECA"
+      ],
+      [
+        108,
+        113,
+        "PECA"
+      ],
+      [
+        118,
+        124,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Realizamos cambagem dianteira na oficina mecânica hoje. O custo final das peças mecânicas foi de 280,00.",
+    "entities": [
+      [
+        11,
+        29,
+        "SERVICO"
+      ],
+      [
+        97,
+        103,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de correia dentada Delphi. Custo da peça: 190,00.",
+    "entities": [
+      [
+        16,
+        31,
+        "PECA"
+      ],
+      [
+        32,
+        38,
+        "PECA"
+      ],
+      [
+        55,
+        61,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Fui até a mecânica apenas para calibrar os pneus e tirar uma dúvida com o técnico de plantão.",
+    "entities": []
+  },
+  {
+    "text": "O gerente informou que a oficina estará fechada amanhã devido ao feriado local.",
+    "entities": []
+  },
+  {
+    "text": "Substituição de radiador Fram. Custo da peça: 1.200,00.",
+    "entities": [
+      [
+        16,
+        24,
+        "PECA"
+      ],
+      [
+        25,
+        29,
+        "PECA"
+      ],
+      [
+        46,
+        54,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Realizamos diagnóstico de injeção eletrônica na oficina mecânica hoje. O custo final das peças mecânicas foi de 85,00.",
+    "entities": [
+      [
+        11,
+        44,
+        "SERVICO"
+      ],
+      [
+        112,
+        117,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de filtro de combustível TRW. Custo da peça: 85,00.",
+    "entities": [
+      [
+        16,
+        37,
+        "PECA"
+      ],
+      [
+        38,
+        41,
+        "PECA"
+      ],
+      [
+        58,
+        63,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente solicitou a troca da peça filtro de óleo da marca Magneti Marelli. O valor total ficou em 1.200,00 reais.",
+    "entities": [
+      [
+        36,
+        50,
+        "PECA"
+      ],
+      [
+        60,
+        75,
+        "PECA"
+      ],
+      [
+        100,
+        108,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O manual do proprietário indica que a revisão deve ser feita a cada dez mil quilômetros rodados.",
+    "entities": []
+  },
+  {
+    "text": "Discussão técnica sobre as novas diretrizes de emissões de poluentes para veículos leves.",
+    "entities": []
+  },
+  {
+    "text": "Orçamento aprovado para troca de fluido de freio (1.200,00) e substituição do filtro de combustível da Cofap por 1.200,00.",
+    "entities": [
+      [
+        24,
+        48,
+        "SERVICO"
+      ],
+      [
+        50,
+        58,
+        "VALOR"
+      ],
+      [
+        78,
+        99,
+        "PECA"
+      ],
+      [
+        103,
+        108,
+        "PECA"
+      ],
+      [
+        113,
+        121,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Nota fiscal de devolução de ferramentas emitida para o fornecedor hoje à tarde.",
+    "entities": []
+  },
+  {
+    "text": "A oficina mecânica comprou um novo elevador hidráulico para agilizar o atendimento dos clientes.",
+    "entities": []
+  },
+  {
+    "text": "O carro foi guinchado até a oficina após uma pane elétrica na rodovia.",
+    "entities": []
+  },
+  {
+    "text": "Substituição de bateria 60Ah Delphi. Custo da peça: 95,00.",
+    "entities": [
+      [
+        16,
+        28,
+        "PECA"
+      ],
+      [
+        29,
+        35,
+        "PECA"
+      ],
+      [
+        52,
+        57,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Trocado bomba d'água e feito manutenção preventiva. Total da nota fiscal: R$ 85,00.",
+    "entities": [
+      [
+        8,
+        20,
+        "PECA"
+      ],
+      [
+        29,
+        50,
+        "SERVICO"
+      ],
+      [
+        77,
+        82,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Foi realizado o serviço de manutenção preventiva custando R$ 85,00.",
+    "entities": [
+      [
+        27,
+        48,
+        "SERVICO"
+      ],
+      [
+        61,
+        66,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de bomba d'água Bosch. Custo da peça: 2.100,00.",
+    "entities": [
+      [
+        16,
+        28,
+        "PECA"
+      ],
+      [
+        29,
+        34,
+        "PECA"
+      ],
+      [
+        51,
+        59,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O gerente informou que a oficina estará fechada amanhã devido ao feriado local.",
+    "entities": []
+  },
+  {
+    "text": "Entrada na oficina mecânica realizada hoje para verificar um barulho estranho que sumiu sozinho.",
+    "entities": []
+  },
+  {
+    "text": "O mecânico trocou o óleo lubrificante 5W30 Magneti Marelli e cobrou 45,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        42,
+        "PECA"
+      ],
+      [
+        43,
+        58,
+        "PECA"
+      ],
+      [
+        68,
+        73,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O veículo foi retirado pelo proprietário sem a realização do conserto por falta de peças no estoque.",
+    "entities": []
+  },
+  {
+    "text": "O cliente solicitou a troca da peça filtro de combustível da marca Pirelli. O valor total ficou em 120,00 reais.",
+    "entities": [
+      [
+        36,
+        57,
+        "PECA"
+      ],
+      [
+        67,
+        74,
+        "PECA"
+      ],
+      [
+        99,
+        105,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Recomenda-se fazer cambagem dianteira urgente. Peças necessárias: óleo lubrificante 5W30 Brembo no valor de 95,00.",
+    "entities": [
+      [
+        19,
+        37,
+        "SERVICO"
+      ],
+      [
+        66,
+        88,
+        "PECA"
+      ],
+      [
+        89,
+        95,
+        "PECA"
+      ],
+      [
+        108,
+        113,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Fizemos um check-up geral e o nível de água e óleo estão normais, nenhuma manutenção necessária.",
+    "entities": []
+  },
+  {
+    "text": "Realizamos limpeza do sistema de arrefecimento na oficina mecânica hoje. O custo final das peças mecânicas foi de 480,00.",
+    "entities": [
+      [
+        11,
+        46,
+        "SERVICO"
+      ],
+      [
+        114,
+        120,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente ligou para agendar um horário na próxima semana, mas ainda não confirmou o serviço.",
+    "entities": []
+  },
+  {
+    "text": "Realizamos substituição da embreagem na oficina mecânica hoje. O custo final das peças mecânicas foi de 95,00.",
+    "entities": [
+      [
+        11,
+        36,
+        "SERVICO"
+      ],
+      [
+        104,
+        109,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico fez a vistoria do veículo hoje de manhã, mas não encontrou nenhum defeito aparente.",
+    "entities": []
+  },
+  {
+    "text": "Adicionado ao orçamento o item filtro de combustível pelo valor de R$ 150,00 mais a mão de obra.",
+    "entities": [
+      [
+        31,
+        52,
+        "PECA"
+      ],
+      [
+        70,
+        76,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O guincho deixou o automóvel no estacionamento da empresa hoje cedo.",
+    "entities": []
+  },
+  {
+    "text": "O mecânico trocou o sapata de freio Monroe e cobrou 45,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        35,
+        "PECA"
+      ],
+      [
+        36,
+        42,
+        "PECA"
+      ],
+      [
+        52,
+        57,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Nota fiscal de devolução de ferramentas emitida para o fornecedor hoje à tarde.",
+    "entities": []
+  },
+  {
+    "text": "Recomenda-se fazer troca de óleo urgente. Peças necessárias: disco de freio Magneti Marelli no valor de 480,00.",
+    "entities": [
+      [
+        19,
+        32,
+        "SERVICO"
+      ],
+      [
+        61,
+        75,
+        "PECA"
+      ],
+      [
+        76,
+        91,
+        "PECA"
+      ],
+      [
+        104,
+        110,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o bomba d'água Fram e cobrou 2.100,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        32,
+        "PECA"
+      ],
+      [
+        33,
+        37,
+        "PECA"
+      ],
+      [
+        47,
+        55,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o pastilha de freio Mahle e cobrou 650,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        37,
+        "PECA"
+      ],
+      [
+        38,
+        43,
+        "PECA"
+      ],
+      [
+        53,
+        59,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Fizemos um check-up geral e o nível de água e óleo estão normais, nenhuma manutenção necessária.",
+    "entities": []
+  },
+  {
+    "text": "O cliente solicitou a troca da peça palheta do limpador da marca Magneti Marelli. O valor total ficou em 95,00 reais.",
+    "entities": [
+      [
+        36,
+        55,
+        "PECA"
+      ],
+      [
+        65,
+        80,
+        "PECA"
+      ],
+      [
+        105,
+        110,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente solicitou a troca da peça amortecedor traseiro da marca Mahle. O valor total ficou em 1.200,00 reais.",
+    "entities": [
+      [
+        36,
+        56,
+        "PECA"
+      ],
+      [
+        66,
+        71,
+        "PECA"
+      ],
+      [
+        96,
+        104,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o óleo lubrificante 5W30 Moura e cobrou 85,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        42,
+        "PECA"
+      ],
+      [
+        43,
+        48,
+        "PECA"
+      ],
+      [
+        58,
+        63,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O veículo foi retirado pelo proprietário sem a realização do conserto por falta de peças no estoque.",
+    "entities": []
+  },
+  {
+    "text": "Hoje o movimento na oficina está tranquilo se comparado com o início da semana passada.",
+    "entities": []
+  },
+  {
+    "text": "Foi realizado o serviço de substituição da embreagem custando R$ 95,00.",
+    "entities": [
+      [
+        27,
+        52,
+        "SERVICO"
+      ],
+      [
+        65,
+        70,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Fizemos um check-up geral e o nível de água e óleo estão normais, nenhuma manutenção necessária.",
+    "entities": []
+  },
+  {
+    "text": "Ordem de serviço: diagnóstico de injeção eletrônica. Valor cobrado pela mão de obra: 480,00.",
+    "entities": [
+      [
+        18,
+        51,
+        "SERVICO"
+      ],
+      [
+        85,
+        91,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de junta do cabeçote Cofap. Custo da peça: 95,00.",
+    "entities": [
+      [
+        16,
+        33,
+        "PECA"
+      ],
+      [
+        34,
+        39,
+        "PECA"
+      ],
+      [
+        56,
+        61,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente solicitou a troca da peça óleo lubrificante 5W30 da marca Cofap. O valor total ficou em 2.100,00 reais.",
+    "entities": [
+      [
+        36,
+        58,
+        "PECA"
+      ],
+      [
+        68,
+        73,
+        "PECA"
+      ],
+      [
+        98,
+        106,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Recomenda-se fazer retífica de discos urgente. Peças necessárias: bateria 60Ah Cofap no valor de 350,00.",
+    "entities": [
+      [
+        19,
+        37,
+        "SERVICO"
+      ],
+      [
+        66,
+        78,
+        "PECA"
+      ],
+      [
+        79,
+        84,
+        "PECA"
+      ],
+      [
+        97,
+        103,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Verificação visual da suspensão e das pastilhas, tudo em excelente estado de conservação.",
+    "entities": []
+  },
+  {
+    "text": "Recomenda-se fazer revisão de 50.000 km urgente. Peças necessárias: palheta do limpador Fram no valor de 150,00.",
+    "entities": [
+      [
+        19,
+        39,
+        "SERVICO"
+      ],
+      [
+        68,
+        87,
+        "PECA"
+      ],
+      [
+        88,
+        92,
+        "PECA"
+      ],
+      [
+        105,
+        111,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o palheta do limpador Cofap e cobrou 95,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        39,
+        "PECA"
+      ],
+      [
+        40,
+        45,
+        "PECA"
+      ],
+      [
+        55,
+        60,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de óleo lubrificante 5W30 Delphi. Custo da peça: 280,00.",
+    "entities": [
+      [
+        16,
+        38,
+        "PECA"
+      ],
+      [
+        39,
+        45,
+        "PECA"
+      ],
+      [
+        62,
+        68,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Recomenda-se fazer cambagem dianteira urgente. Peças necessárias: bateria 60Ah Brembo no valor de 280,00.",
+    "entities": [
+      [
+        19,
+        37,
+        "SERVICO"
+      ],
+      [
+        66,
+        78,
+        "PECA"
+      ],
+      [
+        79,
+        85,
+        "PECA"
+      ],
+      [
+        98,
+        104,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Trocado bomba d'água e feito higienização do ar condicionado. Total da nota fiscal: R$ 2.100,00.",
+    "entities": [
+      [
+        8,
+        20,
+        "PECA"
+      ],
+      [
+        29,
+        60,
+        "SERVICO"
+      ],
+      [
+        87,
+        95,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico recomendou trazer o carro novamente caso a luz do painel volte a acender.",
+    "entities": []
+  },
+  {
+    "text": "Orçamento aprovado para manutenção preventiva (150,00) e substituição do bateria 60Ah da Bosch por 2.100,00.",
+    "entities": [
+      [
+        24,
+        45,
+        "SERVICO"
+      ],
+      [
+        47,
+        53,
+        "VALOR"
+      ],
+      [
+        73,
+        85,
+        "PECA"
+      ],
+      [
+        89,
+        94,
+        "PECA"
+      ],
+      [
+        99,
+        107,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Realizamos retífica de discos na oficina mecânica hoje. O custo final das peças mecânicas foi de 350,00.",
+    "entities": [
+      [
+        11,
+        29,
+        "SERVICO"
+      ],
+      [
+        97,
+        103,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Trocado amortecedor dianteiro e feito limpeza do sistema de arrefecimento. Total da nota fiscal: R$ 650,00.",
+    "entities": [
+      [
+        8,
+        29,
+        "PECA"
+      ],
+      [
+        38,
+        73,
+        "SERVICO"
+      ],
+      [
+        100,
+        106,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o bomba d'água Cofap e cobrou 480,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        32,
+        "PECA"
+      ],
+      [
+        33,
+        38,
+        "PECA"
+      ],
+      [
+        48,
+        54,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O gerente informou que a oficina estará fechada amanhã devido ao feriado local.",
+    "entities": []
+  },
+  {
+    "text": "Foi realizado o serviço de limpeza do sistema de arrefecimento custando R$ 350,00.",
+    "entities": [
+      [
+        27,
+        62,
+        "SERVICO"
+      ],
+      [
+        75,
+        81,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O pátio da oficina mecânica está lotado de carros aguardando a seguradora liberar a perícia.",
+    "entities": []
+  },
+  {
+    "text": "Foi realizado o serviço de revisão do sistema de freios custando R$ 480,00.",
+    "entities": [
+      [
+        27,
+        55,
+        "SERVICO"
+      ],
+      [
+        68,
+        74,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Hoje o movimento na oficina está tranquilo se comparado com o início da semana passada.",
+    "entities": []
+  },
+  {
+    "text": "Fui até a mecânica apenas para calibrar os pneus e tirar uma dúvida com o técnico de plantão.",
+    "entities": []
+  },
+  {
+    "text": "Ordem de serviço: substituição da embreagem. Valor cobrado pela mão de obra: 120,00.",
+    "entities": [
+      [
+        18,
+        43,
+        "SERVICO"
+      ],
+      [
+        77,
+        83,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Recomenda-se fazer cambagem dianteira urgente. Peças necessárias: amortecedor traseiro Magneti Marelli no valor de 120,00.",
+    "entities": [
+      [
+        19,
+        37,
+        "SERVICO"
+      ],
+      [
+        66,
+        86,
+        "PECA"
+      ],
+      [
+        87,
+        102,
+        "PECA"
+      ],
+      [
+        115,
+        121,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de sapata de freio Monroe. Custo da peça: 85,00.",
+    "entities": [
+      [
+        16,
+        31,
+        "PECA"
+      ],
+      [
+        32,
+        38,
+        "PECA"
+      ],
+      [
+        55,
+        60,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Orçamento aprovado para revisão de 50.000 km (95,00) e substituição do radiador da Pirelli por 45,00.",
+    "entities": [
+      [
+        24,
+        44,
+        "SERVICO"
+      ],
+      [
+        46,
+        51,
+        "VALOR"
+      ],
+      [
+        71,
+        79,
+        "PECA"
+      ],
+      [
+        83,
+        90,
+        "PECA"
+      ],
+      [
+        95,
+        100,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Realizamos cambagem dianteira na oficina mecânica hoje. O custo final das peças mecânicas foi de 650,00.",
+    "entities": [
+      [
+        11,
+        29,
+        "SERVICO"
+      ],
+      [
+        97,
+        103,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o bateria 60Ah TRW e cobrou 2.100,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        32,
+        "PECA"
+      ],
+      [
+        33,
+        36,
+        "PECA"
+      ],
+      [
+        46,
+        54,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Fui até a mecânica apenas para calibrar os pneus e tirar uma dúvida com o técnico de plantão.",
+    "entities": []
+  },
+  {
+    "text": "Realizamos troca de fluido de freio na oficina mecânica hoje. O custo final das peças mecânicas foi de 280,00.",
+    "entities": [
+      [
+        11,
+        35,
+        "SERVICO"
+      ],
+      [
+        103,
+        109,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de pneu 205/55 R16 Fram. Custo da peça: 190,00.",
+    "entities": [
+      [
+        16,
+        31,
+        "PECA"
+      ],
+      [
+        32,
+        36,
+        "PECA"
+      ],
+      [
+        53,
+        59,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o disco de freio Fram e cobrou 2.100,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        34,
+        "PECA"
+      ],
+      [
+        35,
+        39,
+        "PECA"
+      ],
+      [
+        49,
+        57,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Trocado amortecedor dianteiro e feito revisão do sistema de freios. Total da nota fiscal: R$ 650,00.",
+    "entities": [
+      [
+        8,
+        29,
+        "PECA"
+      ],
+      [
+        38,
+        66,
+        "SERVICO"
+      ],
+      [
+        93,
+        99,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "A oficina mecânica comprou um novo elevador hidráulico para agilizar o atendimento dos clientes.",
+    "entities": []
+  },
+  {
+    "text": "Fui até a mecânica apenas para calibrar os pneus e tirar uma dúvida com o técnico de plantão.",
+    "entities": []
+  },
+  {
+    "text": "Foi realizado o serviço de manutenção preventiva custando R$ 190,00.",
+    "entities": [
+      [
+        27,
+        48,
+        "SERVICO"
+      ],
+      [
+        61,
+        67,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Adicionado ao orçamento o item correia dentada pelo valor de R$ 480,00 mais a mão de obra.",
+    "entities": [
+      [
+        31,
+        46,
+        "PECA"
+      ],
+      [
+        64,
+        70,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O carro foi guinchado até a oficina após uma pane elétrica na rodovia.",
+    "entities": []
+  },
+  {
+    "text": "Hoje o movimento na oficina está tranquilo se comparado com o início da semana passada.",
+    "entities": []
+  },
+  {
+    "text": "Trocado pastilha de freio e feito substituição da embreagem. Total da nota fiscal: R$ 480,00.",
+    "entities": [
+      [
+        8,
+        25,
+        "PECA"
+      ],
+      [
+        34,
+        59,
+        "SERVICO"
+      ],
+      [
+        86,
+        92,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Ordem de serviço: manutenção preventiva. Valor cobrado pela mão de obra: 45,00.",
+    "entities": [
+      [
+        18,
+        39,
+        "SERVICO"
+      ],
+      [
+        73,
+        78,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente solicitou a troca da peça vela de ignição da marca Cofap. O valor total ficou em 2.100,00 reais.",
+    "entities": [
+      [
+        36,
+        51,
+        "PECA"
+      ],
+      [
+        61,
+        66,
+        "PECA"
+      ],
+      [
+        91,
+        99,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o bateria 60Ah Bosch e cobrou 120,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        32,
+        "PECA"
+      ],
+      [
+        33,
+        38,
+        "PECA"
+      ],
+      [
+        48,
+        54,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Nenhum problema foi detectado durante o teste de rodagem de vinte minutos.",
+    "entities": []
+  },
+  {
+    "text": "O cliente solicitou a troca da peça filtro de óleo da marca TRW. O valor total ficou em 45,00 reais.",
+    "entities": [
+      [
+        36,
+        50,
+        "PECA"
+      ],
+      [
+        60,
+        63,
+        "PECA"
+      ],
+      [
+        88,
+        93,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Ordem de serviço: diagnóstico de injeção eletrônica. Valor cobrado pela mão de obra: 1.200,00.",
+    "entities": [
+      [
+        18,
+        51,
+        "SERVICO"
+      ],
+      [
+        85,
+        93,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Trocado sapata de freio e feito retífica de discos. Total da nota fiscal: R$ 120,00.",
+    "entities": [
+      [
+        8,
+        23,
+        "PECA"
+      ],
+      [
+        32,
+        50,
+        "SERVICO"
+      ],
+      [
+        77,
+        83,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente ligou para agendar um horário na próxima semana, mas ainda não confirmou o serviço.",
+    "entities": []
+  },
+  {
+    "text": "Foi realizado o serviço de substituição da embreagem custando R$ 150,00.",
+    "entities": [
+      [
+        27,
+        52,
+        "SERVICO"
+      ],
+      [
+        65,
+        71,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente preferiu levar o veículo para casa e decidir sobre o orçamento no próximo mês.",
+    "entities": []
+  },
+  {
+    "text": "Recomenda-se fazer limpeza do sistema de arrefecimento urgente. Peças necessárias: filtro de óleo Fram no valor de 190,00.",
+    "entities": [
+      [
+        19,
+        54,
+        "SERVICO"
+      ],
+      [
+        83,
+        97,
+        "PECA"
+      ],
+      [
+        98,
+        102,
+        "PECA"
+      ],
+      [
+        115,
+        121,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Ordem de serviço: revisão de 50.000 km. Valor cobrado pela mão de obra: 650,00.",
+    "entities": [
+      [
+        18,
+        38,
+        "SERVICO"
+      ],
+      [
+        72,
+        78,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Adicionado ao orçamento o item amortecedor dianteiro pelo valor de R$ 190,00 mais a mão de obra.",
+    "entities": [
+      [
+        31,
+        52,
+        "PECA"
+      ],
+      [
+        70,
+        76,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Recomenda-se fazer troca de óleo urgente. Peças necessárias: palheta do limpador Magneti Marelli no valor de 650,00.",
+    "entities": [
+      [
+        19,
+        32,
+        "SERVICO"
+      ],
+      [
+        61,
+        80,
+        "PECA"
+      ],
+      [
+        81,
+        96,
+        "PECA"
+      ],
+      [
+        109,
+        115,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Trocado filtro de óleo e feito troca de fluido de freio. Total da nota fiscal: R$ 280,00.",
+    "entities": [
+      [
+        8,
+        22,
+        "PECA"
+      ],
+      [
+        31,
+        55,
+        "SERVICO"
+      ],
+      [
+        82,
+        88,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Foi realizado o serviço de troca de óleo custando R$ 1.200,00.",
+    "entities": [
+      [
+        27,
+        40,
+        "SERVICO"
+      ],
+      [
+        53,
+        61,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Recomenda-se fazer cambagem dianteira urgente. Peças necessárias: disco de freio Magneti Marelli no valor de 150,00.",
+    "entities": [
+      [
+        19,
+        37,
+        "SERVICO"
+      ],
+      [
+        66,
+        80,
+        "PECA"
+      ],
+      [
+        81,
+        96,
+        "PECA"
+      ],
+      [
+        109,
+        115,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "A oficina mecânica comprou um novo elevador hidráulico para agilizar o atendimento dos clientes.",
+    "entities": []
+  },
+  {
+    "text": "O pátio da oficina mecânica está lotado de carros aguardando a seguradora liberar a perícia.",
+    "entities": []
+  },
+  {
+    "text": "O guincho deixou o automóvel no estacionamento da empresa hoje cedo.",
+    "entities": []
+  },
+  {
+    "text": "Substituição de filtro de óleo Pirelli. Custo da peça: 120,00.",
+    "entities": [
+      [
+        16,
+        30,
+        "PECA"
+      ],
+      [
+        31,
+        38,
+        "PECA"
+      ],
+      [
+        55,
+        61,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O carro foi guinchado até a oficina após uma pane elétrica na rodovia.",
+    "entities": []
+  },
+  {
+    "text": "Foi realizado o serviço de revisão do sistema de freios custando R$ 480,00.",
+    "entities": [
+      [
+        27,
+        55,
+        "SERVICO"
+      ],
+      [
+        68,
+        74,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Adicionado ao orçamento o item correia dentada pelo valor de R$ 190,00 mais a mão de obra.",
+    "entities": [
+      [
+        31,
+        46,
+        "PECA"
+      ],
+      [
+        64,
+        70,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Ordem de serviço: substituição da embreagem. Valor cobrado pela mão de obra: 45,00.",
+    "entities": [
+      [
+        18,
+        43,
+        "SERVICO"
+      ],
+      [
+        77,
+        82,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de correia dentada Cofap. Custo da peça: 1.200,00.",
+    "entities": [
+      [
+        16,
+        31,
+        "PECA"
+      ],
+      [
+        32,
+        37,
+        "PECA"
+      ],
+      [
+        54,
+        62,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de bomba d'água Moura. Custo da peça: 95,00.",
+    "entities": [
+      [
+        16,
+        28,
+        "PECA"
+      ],
+      [
+        29,
+        34,
+        "PECA"
+      ],
+      [
+        51,
+        56,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Trocado palheta do limpador e feito alinhamento e balanceamento. Total da nota fiscal: R$ 95,00.",
+    "entities": [
+      [
+        8,
+        27,
+        "PECA"
+      ],
+      [
+        36,
+        63,
+        "SERVICO"
+      ],
+      [
+        90,
+        95,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Trocado pastilha de freio e feito revisão de 50.000 km. Total da nota fiscal: R$ 650,00.",
+    "entities": [
+      [
+        8,
+        25,
+        "PECA"
+      ],
+      [
+        34,
+        54,
+        "SERVICO"
+      ],
+      [
+        81,
+        87,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de amortecedor traseiro Moura. Custo da peça: 150,00.",
+    "entities": [
+      [
+        16,
+        36,
+        "PECA"
+      ],
+      [
+        37,
+        42,
+        "PECA"
+      ],
+      [
+        59,
+        65,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente preferiu levar o veículo para casa e decidir sobre o orçamento no próximo mês.",
+    "entities": []
+  },
+  {
+    "text": "Entrada na oficina mecânica realizada hoje para verificar um barulho estranho que sumiu sozinho.",
+    "entities": []
+  },
+  {
+    "text": "Trocado correia dentada e feito revisão de 50.000 km. Total da nota fiscal: R$ 650,00.",
+    "entities": [
+      [
+        8,
+        23,
+        "PECA"
+      ],
+      [
+        32,
+        52,
+        "SERVICO"
+      ],
+      [
+        79,
+        85,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Recomenda-se fazer retífica de discos urgente. Peças necessárias: bomba d'água NGK no valor de 45,00.",
+    "entities": [
+      [
+        19,
+        37,
+        "SERVICO"
+      ],
+      [
+        66,
+        78,
+        "PECA"
+      ],
+      [
+        79,
+        82,
+        "PECA"
+      ],
+      [
+        95,
+        100,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o bateria 60Ah Mahle e cobrou 190,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        32,
+        "PECA"
+      ],
+      [
+        33,
+        38,
+        "PECA"
+      ],
+      [
+        48,
+        54,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o pneu 205/55 R16 Mahle e cobrou 190,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        35,
+        "PECA"
+      ],
+      [
+        36,
+        41,
+        "PECA"
+      ],
+      [
+        51,
+        57,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Ordem de serviço: cambagem dianteira. Valor cobrado pela mão de obra: 650,00.",
+    "entities": [
+      [
+        18,
+        36,
+        "SERVICO"
+      ],
+      [
+        70,
+        76,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Trocado bateria 60Ah e feito higienização do ar condicionado. Total da nota fiscal: R$ 480,00.",
+    "entities": [
+      [
+        8,
+        20,
+        "PECA"
+      ],
+      [
+        29,
+        60,
+        "SERVICO"
+      ],
+      [
+        87,
+        93,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Orçamento aprovado para revisão de 50.000 km (350,00) e substituição do correia dentada da Mahle por 85,00.",
+    "entities": [
+      [
+        24,
+        44,
+        "SERVICO"
+      ],
+      [
+        46,
+        52,
+        "VALOR"
+      ],
+      [
+        72,
+        87,
+        "PECA"
+      ],
+      [
+        91,
+        96,
+        "PECA"
+      ],
+      [
+        101,
+        106,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente solicitou a troca da peça filtro de cabine da marca Monroe. O valor total ficou em 95,00 reais.",
+    "entities": [
+      [
+        36,
+        52,
+        "PECA"
+      ],
+      [
+        62,
+        68,
+        "PECA"
+      ],
+      [
+        93,
+        98,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o radiador Mahle e cobrou 2.100,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        28,
+        "PECA"
+      ],
+      [
+        29,
+        34,
+        "PECA"
+      ],
+      [
+        44,
+        52,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Nota fiscal de devolução de ferramentas emitida para o fornecedor hoje à tarde.",
+    "entities": []
+  },
+  {
+    "text": "Nenhum problema foi detectado durante o teste de rodagem de vinte minutos.",
+    "entities": []
+  },
+  {
+    "text": "O pátio da oficina mecânica está lotado de carros aguardando a seguradora liberar a perícia.",
+    "entities": []
+  },
+  {
+    "text": "Nenhum problema foi detectado durante o teste de rodagem de vinte minutos.",
+    "entities": []
+  },
+  {
+    "text": "O cliente solicitou a troca da peça radiador da marca Delphi. O valor total ficou em 650,00 reais.",
+    "entities": [
+      [
+        36,
+        44,
+        "PECA"
+      ],
+      [
+        54,
+        60,
+        "PECA"
+      ],
+      [
+        85,
+        91,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico recomendou trazer o carro novamente caso a luz do painel volte a acender.",
+    "entities": []
+  },
+  {
+    "text": "O mecânico chefe explicou o funcionamento do motor de três cilindros para o novo estagiário.",
+    "entities": []
+  },
+  {
+    "text": "Substituição de disco de freio Bosch. Custo da peça: 150,00.",
+    "entities": [
+      [
+        16,
+        30,
+        "PECA"
+      ],
+      [
+        31,
+        36,
+        "PECA"
+      ],
+      [
+        53,
+        59,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o correia dentada Cofap e cobrou 45,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        35,
+        "PECA"
+      ],
+      [
+        36,
+        41,
+        "PECA"
+      ],
+      [
+        51,
+        56,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o bateria 60Ah Magneti Marelli e cobrou 85,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        32,
+        "PECA"
+      ],
+      [
+        33,
+        48,
+        "PECA"
+      ],
+      [
+        58,
+        63,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O carro foi guinchado até a oficina após uma pane elétrica na rodovia.",
+    "entities": []
+  },
+  {
+    "text": "O cliente preferiu levar o veículo para casa e decidir sobre o orçamento no próximo mês.",
+    "entities": []
+  },
+  {
+    "text": "Ordem de serviço: limpeza do sistema de arrefecimento. Valor cobrado pela mão de obra: 150,00.",
+    "entities": [
+      [
+        18,
+        53,
+        "SERVICO"
+      ],
+      [
+        87,
+        93,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Foi realizado o serviço de troca de óleo custando R$ 350,00.",
+    "entities": [
+      [
+        27,
+        40,
+        "SERVICO"
+      ],
+      [
+        53,
+        59,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Foi realizado o serviço de higienização do ar condicionado custando R$ 1.200,00.",
+    "entities": [
+      [
+        27,
+        58,
+        "SERVICO"
+      ],
+      [
+        71,
+        79,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de amortecedor dianteiro Delphi. Custo da peça: 650,00.",
+    "entities": [
+      [
+        16,
+        37,
+        "PECA"
+      ],
+      [
+        38,
+        44,
+        "PECA"
+      ],
+      [
+        61,
+        67,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Discussão técnica sobre as novas diretrizes de emissões de poluentes para veículos leves.",
+    "entities": []
+  },
+  {
+    "text": "Nenhum problema foi detectado durante o teste de rodagem de vinte minutos.",
+    "entities": []
+  },
+  {
+    "text": "Verificação visual da suspensão e das pastilhas, tudo em excelente estado de conservação.",
+    "entities": []
+  },
+  {
+    "text": "Discussão técnica sobre as novas diretrizes de emissões de poluentes para veículos leves.",
+    "entities": []
+  },
+  {
+    "text": "Nota fiscal de devolução de ferramentas emitida para o fornecedor hoje à tarde.",
+    "entities": []
+  },
+  {
+    "text": "O mecânico chefe explicou o funcionamento do motor de três cilindros para o novo estagiário.",
+    "entities": []
+  },
+  {
+    "text": "Orçamento aprovado para limpeza do sistema de arrefecimento (45,00) e substituição do filtro de cabine da Moura por 190,00.",
+    "entities": [
+      [
+        24,
+        59,
+        "SERVICO"
+      ],
+      [
+        61,
+        66,
+        "VALOR"
+      ],
+      [
+        86,
+        102,
+        "PECA"
+      ],
+      [
+        106,
+        111,
+        "PECA"
+      ],
+      [
+        116,
+        122,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente solicitou a troca da peça pastilha de freio da marca Delphi. O valor total ficou em 190,00 reais.",
+    "entities": [
+      [
+        36,
+        53,
+        "PECA"
+      ],
+      [
+        63,
+        69,
+        "PECA"
+      ],
+      [
+        94,
+        100,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O veículo foi retirado pelo proprietário sem a realização do conserto por falta de peças no estoque.",
+    "entities": []
+  },
+  {
+    "text": "O mecânico trocou o filtro de cabine Moura e cobrou 280,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        36,
+        "PECA"
+      ],
+      [
+        37,
+        42,
+        "PECA"
+      ],
+      [
+        52,
+        58,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O veículo foi retirado pelo proprietário sem a realização do conserto por falta de peças no estoque.",
+    "entities": []
+  },
+  {
+    "text": "Trocado filtro de óleo e feito alinhamento e balanceamento. Total da nota fiscal: R$ 650,00.",
+    "entities": [
+      [
+        8,
+        22,
+        "PECA"
+      ],
+      [
+        31,
+        58,
+        "SERVICO"
+      ],
+      [
+        85,
+        91,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o filtro de cabine NGK e cobrou 150,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        36,
+        "PECA"
+      ],
+      [
+        37,
+        40,
+        "PECA"
+      ],
+      [
+        50,
+        56,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o radiador Cofap e cobrou 190,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        28,
+        "PECA"
+      ],
+      [
+        29,
+        34,
+        "PECA"
+      ],
+      [
+        44,
+        50,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de filtro de óleo Delphi. Custo da peça: 150,00.",
+    "entities": [
+      [
+        16,
+        30,
+        "PECA"
+      ],
+      [
+        31,
+        37,
+        "PECA"
+      ],
+      [
+        54,
+        60,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Ordem de serviço: higienização do ar condicionado. Valor cobrado pela mão de obra: 2.100,00.",
+    "entities": [
+      [
+        18,
+        49,
+        "SERVICO"
+      ],
+      [
+        83,
+        91,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Verificação visual da suspensão e das pastilhas, tudo em excelente estado de conservação.",
+    "entities": []
+  },
+  {
+    "text": "O mecânico chefe explicou o funcionamento do motor de três cilindros para o novo estagiário.",
+    "entities": []
+  },
+  {
+    "text": "A oficina mecânica comprou um novo elevador hidráulico para agilizar o atendimento dos clientes.",
+    "entities": []
+  },
+  {
+    "text": "O cliente solicitou a troca da peça filtro de cabine da marca Moura. O valor total ficou em 1.200,00 reais.",
+    "entities": [
+      [
+        36,
+        52,
+        "PECA"
+      ],
+      [
+        62,
+        67,
+        "PECA"
+      ],
+      [
+        92,
+        100,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente solicitou a troca da peça bateria 60Ah da marca Moura. O valor total ficou em 350,00 reais.",
+    "entities": [
+      [
+        36,
+        48,
+        "PECA"
+      ],
+      [
+        58,
+        63,
+        "PECA"
+      ],
+      [
+        88,
+        94,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O manual do proprietário indica que a revisão deve ser feita a cada dez mil quilômetros rodados.",
+    "entities": []
+  },
+  {
+    "text": "O mecânico trocou o junta do cabeçote Mahle e cobrou 1.200,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        37,
+        "PECA"
+      ],
+      [
+        38,
+        43,
+        "PECA"
+      ],
+      [
+        53,
+        61,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Orçamento aprovado para cambagem dianteira (85,00) e substituição do filtro de combustível da Delphi por 480,00.",
+    "entities": [
+      [
+        24,
+        42,
+        "SERVICO"
+      ],
+      [
+        44,
+        49,
+        "VALOR"
+      ],
+      [
+        69,
+        90,
+        "PECA"
+      ],
+      [
+        94,
+        100,
+        "PECA"
+      ],
+      [
+        105,
+        111,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Trocado bateria 60Ah e feito revisão do sistema de freios. Total da nota fiscal: R$ 350,00.",
+    "entities": [
+      [
+        8,
+        20,
+        "PECA"
+      ],
+      [
+        29,
+        57,
+        "SERVICO"
+      ],
+      [
+        84,
+        90,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Ordem de serviço: manutenção preventiva. Valor cobrado pela mão de obra: 95,00.",
+    "entities": [
+      [
+        18,
+        39,
+        "SERVICO"
+      ],
+      [
+        73,
+        78,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de correia dentada Magneti Marelli. Custo da peça: 1.200,00.",
+    "entities": [
+      [
+        16,
+        31,
+        "PECA"
+      ],
+      [
+        32,
+        47,
+        "PECA"
+      ],
+      [
+        64,
+        72,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de palheta do limpador Fram. Custo da peça: 150,00.",
+    "entities": [
+      [
+        16,
+        35,
+        "PECA"
+      ],
+      [
+        36,
+        40,
+        "PECA"
+      ],
+      [
+        57,
+        63,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O gerente informou que a oficina estará fechada amanhã devido ao feriado local.",
+    "entities": []
+  },
+  {
+    "text": "Ordem de serviço: revisão do sistema de freios. Valor cobrado pela mão de obra: 45,00.",
+    "entities": [
+      [
+        18,
+        46,
+        "SERVICO"
+      ],
+      [
+        80,
+        85,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de amortecedor dianteiro Mahle. Custo da peça: 150,00.",
+    "entities": [
+      [
+        16,
+        37,
+        "PECA"
+      ],
+      [
+        38,
+        43,
+        "PECA"
+      ],
+      [
+        60,
+        66,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente ligou para agendar um horário na próxima semana, mas ainda não confirmou o serviço.",
+    "entities": []
+  },
+  {
+    "text": "O cliente solicitou a troca da peça disco de freio da marca Brembo. O valor total ficou em 150,00 reais.",
+    "entities": [
+      [
+        36,
+        50,
+        "PECA"
+      ],
+      [
+        60,
+        66,
+        "PECA"
+      ],
+      [
+        91,
+        97,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Hoje o movimento na oficina está tranquilo se comparado com o início da semana passada.",
+    "entities": []
+  },
+  {
+    "text": "Orçamento aprovado para revisão de 50.000 km (45,00) e substituição do pastilha de freio da Delphi por 480,00.",
+    "entities": [
+      [
+        24,
+        44,
+        "SERVICO"
+      ],
+      [
+        46,
+        51,
+        "VALOR"
+      ],
+      [
+        71,
+        88,
+        "PECA"
+      ],
+      [
+        92,
+        98,
+        "PECA"
+      ],
+      [
+        103,
+        109,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O pátio da oficina mecânica está lotado de carros aguardando a seguradora liberar a perícia.",
+    "entities": []
+  },
+  {
+    "text": "Entrada na oficina mecânica realizada hoje para verificar um barulho estranho que sumiu sozinho.",
+    "entities": []
+  },
+  {
+    "text": "O mecânico trocou o bomba d'água Bosch e cobrou 350,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        32,
+        "PECA"
+      ],
+      [
+        33,
+        38,
+        "PECA"
+      ],
+      [
+        48,
+        54,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente preferiu levar o veículo para casa e decidir sobre o orçamento no próximo mês.",
+    "entities": []
+  },
+  {
+    "text": "Ordem de serviço: troca de fluido de freio. Valor cobrado pela mão de obra: 85,00.",
+    "entities": [
+      [
+        18,
+        42,
+        "SERVICO"
+      ],
+      [
+        76,
+        81,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o bomba d'água Bosch e cobrou 150,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        32,
+        "PECA"
+      ],
+      [
+        33,
+        38,
+        "PECA"
+      ],
+      [
+        48,
+        54,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico trocou o disco de freio Fram e cobrou 350,00 pelo serviço completo.",
+    "entities": [
+      [
+        20,
+        34,
+        "PECA"
+      ],
+      [
+        35,
+        39,
+        "PECA"
+      ],
+      [
+        49,
+        55,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O mecânico fez a vistoria do veículo hoje de manhã, mas não encontrou nenhum defeito aparente.",
+    "entities": []
+  },
+  {
+    "text": "Ordem de serviço: cambagem dianteira. Valor cobrado pela mão de obra: 95,00.",
+    "entities": [
+      [
+        18,
+        36,
+        "SERVICO"
+      ],
+      [
+        70,
+        75,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Foi realizado o serviço de troca de óleo custando R$ 85,00.",
+    "entities": [
+      [
+        27,
+        40,
+        "SERVICO"
+      ],
+      [
+        53,
+        58,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Recomenda-se fazer higienização do ar condicionado urgente. Peças necessárias: radiador Pirelli no valor de 1.200,00.",
+    "entities": [
+      [
+        19,
+        50,
+        "SERVICO"
+      ],
+      [
+        79,
+        87,
+        "PECA"
+      ],
+      [
+        88,
+        95,
+        "PECA"
+      ],
+      [
+        108,
+        116,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Orçamento aprovado para troca de fluido de freio (120,00) e substituição do palheta do limpador da Fram por 190,00.",
+    "entities": [
+      [
+        24,
+        48,
+        "SERVICO"
+      ],
+      [
+        50,
+        56,
+        "VALOR"
+      ],
+      [
+        76,
+        95,
+        "PECA"
+      ],
+      [
+        99,
+        103,
+        "PECA"
+      ],
+      [
+        108,
+        114,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Adicionado ao orçamento o item bateria 60Ah pelo valor de R$ 120,00 mais a mão de obra.",
+    "entities": [
+      [
+        31,
+        43,
+        "PECA"
+      ],
+      [
+        61,
+        67,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Discussão técnica sobre as novas diretrizes de emissões de poluentes para veículos leves.",
+    "entities": []
+  },
+  {
+    "text": "Ordem de serviço: revisão de 50.000 km. Valor cobrado pela mão de obra: 120,00.",
+    "entities": [
+      [
+        18,
+        38,
+        "SERVICO"
+      ],
+      [
+        72,
+        78,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente ligou para agendar um horário na próxima semana, mas ainda não confirmou o serviço.",
+    "entities": []
+  },
+  {
+    "text": "O guincho deixou o automóvel no estacionamento da empresa hoje cedo.",
+    "entities": []
+  },
+  {
+    "text": "O mecânico fez a vistoria do veículo hoje de manhã, mas não encontrou nenhum defeito aparente.",
+    "entities": []
+  },
+  {
+    "text": "Entrada na oficina mecânica realizada hoje para verificar um barulho estranho que sumiu sozinho.",
+    "entities": []
+  },
+  {
+    "text": "Recomenda-se fazer substituição da embreagem urgente. Peças necessárias: sapata de freio Brembo no valor de 120,00.",
+    "entities": [
+      [
+        19,
+        44,
+        "SERVICO"
+      ],
+      [
+        73,
+        88,
+        "PECA"
+      ],
+      [
+        89,
+        95,
+        "PECA"
+      ],
+      [
+        108,
+        114,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O manual do proprietário indica que a revisão deve ser feita a cada dez mil quilômetros rodados.",
+    "entities": []
+  },
+  {
+    "text": "Adicionado ao orçamento o item vela de ignição pelo valor de R$ 350,00 mais a mão de obra.",
+    "entities": [
+      [
+        31,
+        46,
+        "PECA"
+      ],
+      [
+        64,
+        70,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "Substituição de amortecedor traseiro Cofap. Custo da peça: 45,00.",
+    "entities": [
+      [
+        16,
+        36,
+        "PECA"
+      ],
+      [
+        37,
+        42,
+        "PECA"
+      ],
+      [
+        59,
+        64,
+        "VALOR"
+      ]
+    ]
+  },
+  {
+    "text": "O cliente solicitou a troca da peça filtro de cabine da marca Pirelli. O valor total ficou em 480,00 reais.",
+    "entities": [
+      [
+        36,
+        52,
+        "PECA"
+      ],
+      [
+        62,
+        69,
+        "PECA"
+      ],
+      [
+        94,
+        100,
+        "VALOR"
+      ]
+    ]
+  }
+]
