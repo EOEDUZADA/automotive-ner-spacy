@@ -1,7 +1,7 @@
 
 
 Descrição
-Projeto prático aplicando Processamento de Linguagem Natural (PLN) e Machine Learning. Utilizei o framework **spaCy v3** para ler textos de ordens de serviço de oficinas mecânicas e extrair automaticamente três coisas: Peças, Serviços e Valores.
+Projeto prático aplicando Processamento de Linguagem Natural (PLN) e Machine Learning. Utilizei o framework **spaCy v3** para ler textos de ordens de serviço fictícias de oficinas mecânicas e extrair automaticamente três coisas: Peças, Serviços e Valores.
 
 Eu queria que o computador conseguisse ler uma frase ou parágrafo de texto livre (como o texto de um orçamento de oficina) e separasse essas três categorias de negócio:
 *   `PECA`: Amortecedor, pastilha de freio, marcas como Bosch, Monroe, etc.
